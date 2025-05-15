@@ -1,21 +1,21 @@
 [
   {
     "name": "Hi Beauty",
-    "screenshot": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/images/screenshots/hb_web.webp",
+    "screenshot": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/screenshots/hb_web.webp",
     "description": "Offering subscription boxes and a variety of beauty products.",
     "link": "https://hibeauty.com.co/",
     "technologies": ["React.js", "Next.js", "Tailwind CSS"]
   },
   {
     "name": "Hi Beauty App",
-    "screenshot": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/images/screenshots/hb_app.webp",
+    "screenshot": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/screenshots/hb_app.webp",
     "description": "Bringing Hi Beauty closer to users, allowing them to shop and select products for their monthly box.",
     "link": "https://apps.apple.com/co/app/hibeauty/id6511218761",
     "technologies": ["Flutter", "Dart"]
   },
   {
     "name": "StartupsLab Agencia",
-    "screenshot": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/images/screenshots/sl_web.webp",
+    "screenshot": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/screenshots/sl_web.webp",
     "description": "Present its services and client portfolio through a website that highlights both creativity and professionalism.",
     "link": "https://startupslabagencia.vercel.app/",
     "technologies": ["React.js", "Next.js", "Tailwind CSS"]
