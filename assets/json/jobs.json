@@ -2,6 +2,7 @@
   {
     "company": "LUM Logistic",
     "logo": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/logos/lum_logistic.svg",
+    "color": "#3A3A3A",
     "date": "2023 - 2025",
     "role": "Frontend Engineer",
     "description": "Creating specialized systems for smooth logistics management, making sure resources are used efficiently."
@@ -9,6 +10,7 @@
   {
     "company": "Hi Beauty",
     "logo": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/logos/hi_beauty.svg",
+    "color": "#C23775",
     "date": "2022 - 2023",
     "role": "Frontend Developer",
     "description": "Played a key role in building and managing the website and internal systems, set up the tech stack, and ensured a smooth workflow for the team."
@@ -16,6 +18,7 @@
   {
     "company": "StartupsLab Agencia",
     "logo": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/logos/startups_lab_agencia.svg",
+    "color": "#EF7D43",
     "date": "2020 - 2022",
     "role": "Frontend Developer",
     "description": "Contributed to building the company's website and services, created websites for clients, and worked on internal product development."
