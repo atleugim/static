@@ -7,10 +7,10 @@
     "technologies": ["React.js", "Next.js", "Tailwind CSS"]
   },
   {
-    "name": "StartupsLab Agencia",
-    "screenshot": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/screenshots/sl_web.webp",
+    "name": "StartupsLab EDU",
+    "screenshot": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/screenshots/edu_web.webp",
     "description": "Present its services and client portfolio through a website that highlights both creativity and professionalism.",
-    "link": "https://startupslabagencia.vercel.app/",
+    "link": "https://edustartupslab.vercel.app/",
     "technologies": ["React.js", "Next.js", "Tailwind CSS"]
   },
   {
