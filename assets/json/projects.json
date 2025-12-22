@@ -7,13 +7,6 @@
     "technologies": ["React.js", "Next.js", "Tailwind CSS"]
   },
   {
-    "name": "StartupsLab EDU",
-    "screenshot": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/screenshots/edu_web.webp",
-    "description": "Present its services and client portfolio through a website that highlights both creativity and professionalism.",
-    "link": "https://edustartupslab.vercel.app/",
-    "technologies": ["React.js", "Next.js", "Tailwind CSS"]
-  },
-  {
     "name": "Hi Beauty App",
     "screenshot": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/screenshots/hb_app.webp",
     "description": "Bringing Hi Beauty closer to users, allowing them to shop and select products for their monthly box.",
