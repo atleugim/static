@@ -4,16 +4,16 @@
     "logo": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/logos/lum_logistic.svg",
     "color": "#3A3A3A",
     "date": "2023 - 2025",
-    "role": "Frontend Engineer",
-    "description": "Creating specialized systems for smooth logistics management, making sure resources are used efficiently."
+    "role": "Software Developer",
+    "description": "Designed and implemented scalable frontend architectures for logistics and resource-management systems, optimizing application performance through techniques such as code-splitting, memoization, and rendering optimizations, while collaborating closely with backend, product, and operations teams to define technical requirements and delivery scope."
   },
   {
     "company": "Hi Beauty",
     "logo": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/logos/hi_beauty.svg",
     "color": "#C23775",
     "date": "2022 - 2023",
-    "role": "Lead Frontend Developer",
-    "description": "Played a key role in building and managing the website and internal systems, set up the tech stack, and ensured a smooth workflow for the team."
+    "role": "Lead Software Developer",
+    "description": "Led frontend architecture and technical direction for the company’s website and internal platforms, defining the frontend tech stack, project structure, and tooling (linting, formatting, build processes), coordinating development workflows, reviewing pull requests, mentoring team members, and working closely with stakeholders to translate business needs into effective technical solutions."
   },
   {
     "company": "StartupsLab Agencia",
@@ -21,6 +21,6 @@
     "color": "#EF7D43",
     "date": "2020 - 2022",
     "role": "Frontend Developer",
-    "description": "Contributed to building the company's website and services, created websites for clients, and worked on internal product development."
+    "description": "Implemented responsive and accessible user interfaces using modern frontend frameworks, integrated third-party services and APIs into client-facing applications, collaborated in agile environments with designers, backend developers, and product teams, and contributed to internal tooling and shared components to accelerate development across multiple projects."
   }
 ]
