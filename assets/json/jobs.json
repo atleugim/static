@@ -5,7 +5,13 @@
     "color": "#3A3A3A",
     "date": "2023 - 2025",
     "role": "Software Developer",
-    "description": "Designed and implemented scalable frontend architectures for logistics and resource-management systems, optimizing application performance through techniques such as code-splitting, memoization, and rendering optimizations, while collaborating closely with backend, product, and operations teams to define technical requirements and delivery scope."
+    "description": [
+      "Design and implementation of specialized systems for smooth logistics management, working in agile environments.",
+      "Working with REST APIs built with Nest.js, integrating frontend applications with backend services to support business requirements.",
+      "Enablement of reliable integrations and efficient communication between services within cross-functional teams.",
+      "Optimization of workflows to improve operational efficiency and resource utilization through continuous feedback and improvements.",
+      "Application of software architecture best practices to ensure maintainability and long-term scalability."
+    ]
   },
   {
     "company": "Hi Beauty",
@@ -13,7 +19,12 @@
     "color": "#C23775",
     "date": "2022 - 2023",
     "role": "Lead Software Developer",
-    "description": "Led frontend architecture and technical direction for the company’s website and internal platforms, defining the frontend tech stack, project structure, and tooling (linting, formatting, build processes), coordinating development workflows, reviewing pull requests, mentoring team members, and working closely with stakeholders to translate business needs into effective technical solutions."
+    "description": [
+      "Led frontend architecture and technical direction of the company's website and internal platforms, integrating with backend services built in Nest.js.",
+      "Defined the frontend technology stack, project structure, and development tools (linting, formatting, build processes), ensuring smooth integration with REST APIs built with Nest.js.",
+      "Coordinated development workflows, performed pull request reviews, and mentored the team, promoting best practices for scalability, performance, and efficient data handling between frontend and backend.",
+      "Worked closely with stakeholders to translate business requirements into frontend solutions, integrating with backend APIs built with Nest.js."
+    ]
   },
   {
     "company": "StartupsLab Agencia",
@@ -21,6 +32,11 @@
     "color": "#EF7D43",
     "date": "2020 - 2022",
     "role": "Frontend Developer",
-    "description": "Implemented responsive and accessible user interfaces using modern frontend frameworks, integrated third-party services and APIs into client-facing applications, collaborated in agile environments with designers, backend developers, and product teams, and contributed to internal tooling and shared components to accelerate development across multiple projects."
+    "description": [
+      "Implementation of responsive and accessible user interfaces using modern frontend frameworks.",
+      "Integration of third-party services and APIs in customer-oriented applications.",
+      "Collaboration in agile environments alongside designers, backend developers, and product teams.",
+      "Contribution to internal tools and shared components to accelerate development across projects."
+    ]
   }
 ]
