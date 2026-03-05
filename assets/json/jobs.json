@@ -1,10 +1,18 @@
 [
   {
+    "company": "Banco Caja Social",
+    "logo": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/logos/bcs.svg",
+    "color": "#366BB3",
+    "date": "2026 - Present",
+    "role": "Frontend Engineer Ssr",
+    "description": []
+  },
+  {
     "company": "LUM Logistic",
     "logo": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/logos/lum_logistic.svg",
     "color": "#3A3A3A",
     "date": "2023 - 2025",
-    "role": "Software Developer",
+    "role": "Frontend Engineer",
     "description": [
       "Design and implementation of specialized systems for smooth logistics management, working in agile environments.",
       "Working with REST APIs built with Nest.js, integrating frontend applications with backend services to support business requirements.",
