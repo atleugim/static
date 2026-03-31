@@ -4,8 +4,12 @@
     "logo": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/logos/bcs.svg",
     "color": "#FFF",
     "date": "2026 - Present",
-    "role": "Frontend Engineer Ssr",
-    "description": []
+    "role": "Software Developer Ssr",
+    "description": [
+      "Development of backend services and REST APIs using Nest.js to support banking operations and internal platforms.",
+      "Design and development of microservices to support scalable and maintainable banking solutions.",
+      "Exploring Genesys Cloud for automated bot flows and customer interaction design as part of continuous learning initiatives."
+    ]
   },
   {
     "company": "LUM Logistic",
