@@ -6,8 +6,8 @@
     "date": "2026 - Present",
     "role": "Software Developer Ssr",
     "description": [
+      "Building and maintaining frontend applications using React and Next.js, delivering responsive and performant user interfaces for both internal tools and client-facing banking platforms.",
       "Development of backend services and REST APIs using Nest.js to support banking operations and internal platforms.",
-      "Design and development of microservices to support scalable and maintainable banking solutions.",
       "Exploring Genesys Cloud for automated bot flows and customer interaction design as part of continuous learning initiatives."
     ]
   },
