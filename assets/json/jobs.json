@@ -33,7 +33,7 @@
     "role": "Lead Software Developer",
     "description": [
       "Led frontend architecture and technical direction of the company's website and internal platforms, integrating with backend services built in Nest.js.",
-      "Defined the frontend technology stack, project structure, and development tools (linting, formatting, build processes), ensuring smooth integration with REST APIs built with Nest.js.",
+      "Defined the frontend technology stack, project structure, and development tools, ensuring smooth integration with REST APIs built with Nest.js.",
       "Coordinated development workflows, performed pull request reviews, and mentored the team, promoting best practices for scalability, performance, and efficient data handling between frontend and backend.",
       "Worked closely with stakeholders to translate business requirements into frontend solutions, integrating with backend APIs built with Nest.js."
     ]
