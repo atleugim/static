@@ -6,9 +6,9 @@
     "date": "2026 - Present",
     "role": "Software Developer Ssr",
     "description": [
-      "Building and maintaining frontend applications using React and Next.js, delivering responsive and performant user interfaces for both internal tools and client-facing banking platforms.",
-      "Development of backend services and REST APIs using Nest.js to support banking operations and internal platforms.",
-      "Exploring Genesys Cloud for automated bot flows and customer interaction design as part of continuous learning initiatives."
+      "Develop and maintain React and Next.js applications for internal tools and client-facing banking platforms, with a focus on performance, accessibility, and maintainable component architecture.",
+      "Build backend services and REST APIs with Nest.js that support core banking operations, ensuring security, reliability, and clear service contracts.",
+      "Design, implement, and maintain production conversational bot flows in Genesys Cloud Architect, integrating them with internal services to automate customer interactions and reduce agent workload."
     ]
   },
   {
@@ -18,11 +18,10 @@
     "date": "2023 - 2025",
     "role": "Frontend Engineer",
     "description": [
-      "Design and implementation of specialized systems for smooth logistics management, working in agile environments.",
-      "Working with REST APIs built with Nest.js, integrating frontend applications with backend services to support business requirements.",
-      "Enablement of reliable integrations and efficient communication between services within cross-functional teams.",
-      "Optimization of workflows to improve operational efficiency and resource utilization through continuous feedback and improvements.",
-      "Application of software architecture best practices to ensure maintainability and long-term scalability."
+      "Designed and built frontend applications for logistics management, turning complex operational processes into clear, efficient user workflows.",
+      "Integrated web applications with Nest.js REST APIs, collaborating with backend engineers to define data contracts and keep services consistent.",
+      "Identified bottlenecks in day-to-day operations and shipped iterative improvements based on user feedback, increasing team efficiency.",
+      "Applied solid architecture and code quality practices to keep the codebase scalable and easy to evolve within an agile, cross-functional team."
     ]
   },
   {
@@ -32,10 +31,11 @@
     "date": "2022 - 2023",
     "role": "Lead Software Developer",
     "description": [
-      "Led frontend architecture and technical direction of the company's website and internal platforms, integrating with backend services built in Nest.js.",
-      "Defined the frontend technology stack, project structure, and development tools, ensuring smooth integration with REST APIs built with Nest.js.",
-      "Coordinated development workflows, performed pull request reviews, and mentored the team, promoting best practices for scalability, performance, and efficient data handling between frontend and backend.",
-      "Worked closely with stakeholders to translate business requirements into frontend solutions, integrating with backend APIs built with Nest.js."
+      "Led the technical direction of the company's sites and internal platforms, owning frontend architecture and its integration with Nest.js backend services.",
+      "Built the company's cross-platform mobile app in Flutter end to end, from development to release and ongoing management on the App Store and Google Play.",
+      "Defined the technology stack, project structure, and development tooling, establishing standards adopted across the team.",
+      "Mentored developers and drove code reviews, promoting best practices in performance, scalability, and data handling.",
+      "Partnered with stakeholders to translate business goals into technical roadmaps and deliverable features."
     ]
   },
   {
@@ -45,10 +45,10 @@
     "date": "2020 - 2022",
     "role": "Frontend Developer",
     "description": [
-      "Implementation of responsive and accessible user interfaces using modern frontend frameworks.",
-      "Integration of third-party services and APIs in customer-oriented applications.",
-      "Collaboration in agile environments alongside designers, backend developers, and product teams.",
-      "Contribution to internal tools and shared components to accelerate development across projects."
+      "Built responsive and accessible user interfaces with modern frontend frameworks for clients across multiple industries.",
+      "Integrated third-party services and APIs into customer-facing applications.",
+      "Worked in agile teams alongside designers, backend developers, and product owners to deliver projects on schedule.",
+      "Contributed to shared components and internal tools that accelerated delivery across projects."
     ]
   }
 ]
