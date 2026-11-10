@@ -25,20 +25,6 @@
     ]
   },
   {
-    "company": "SUBSCRIPCIONBOXCO",
-    "logo": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/logos/hi_beauty.svg",
-    "color": "#C23775",
-    "date": "2022 - 2023",
-    "role": "Lead Software Developer",
-    "description": [
-      "Led the technical direction of the company's sites and internal platforms, owning frontend architecture and its integration with Nest.js backend services.",
-      "Built the company's cross-platform mobile app in Flutter end to end, from development to release and ongoing management on the App Store and Google Play.",
-      "Defined the technology stack, project structure, and development tooling, establishing standards adopted across the team.",
-      "Mentored developers and drove code reviews, promoting best practices in performance, scalability, and data handling.",
-      "Partnered with stakeholders to translate business goals into technical roadmaps and deliverable features."
-    ]
-  },
-  {
     "company": "STARTUPSLAB AGENCIA",
     "logo": "https://raw.githubusercontent.com/atleugim/static/refs/heads/main/assets/image/logos/startups_lab_agencia.svg",
     "color": "#EF7D43",
